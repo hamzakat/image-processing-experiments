@@ -1,5 +1,5 @@
 # Image Processing Experiments for Remote Sensing and Aerial Imagery
-Experiments made for a graduate-level course (Computer Vision for Autonomous Systems)
+Image processing experiments made for a graduate-level course (Computer Vision for Autonomous Systems)
 
 # References
 
